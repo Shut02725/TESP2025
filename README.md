@@ -1,4 +1,14 @@
 # TESP引継ぎ用
+## 概要 Overview
+
+・MuJoCo上の蛇型ロボットをMediaPipeを用いて制御し、迷路を攻略する
+・MediaPipeを用いて実機の蛇型ロボットを制御する
+
+### MediaPipe
+画像や映像から人体の関節などの特徴となる位置を検出するフレームワーク, モジュール
+
+<img src ="./img/mediapipe.png" width="80%">
+
 ## 2024年の流れ
 1. 環境構築(Anaconda, vscodeのインストール、仮想環境の構築、必要なパッケージのインストール)
 2. MuJoCo上で蛇ロボットを制御する
