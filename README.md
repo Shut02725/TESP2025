@@ -12,12 +12,12 @@
 ### MuJoCo
 ロボット工学、生体力学、機械学習等のユーズケースに合わせて作られた物理エンジン
 
-<img src ="./img/mujoco_snake.png">
+<img src ="./img/mujoco_snake.png", width="80%">
 
 ### Real Snake Robot
 12個のサーボモータからなる蛇型のロボット、今回は研究室にあるRaspberryPi上に受け取った目標値に対してサーボ制御を行うコードが書かれているので、pc側から指令値を送るコードを書けばよい
 
-<img src ="./img/real_snake.png">
+<img src ="./img/real_snake.png", width="80%">
 
 ## 2024年の流れ
 1. 環境構築(Anaconda, vscodeのインストール、仮想環境の構築、必要なパッケージのインストール)
